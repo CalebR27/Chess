@@ -1,2 +1,2 @@
-# shiny-octo-invention
+# Chess
 Chess app in Kotlin
